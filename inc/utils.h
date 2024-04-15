@@ -110,10 +110,10 @@ print_sorted_array(sort_context_t *ctx)
 }
 
   static inline int
-gen_rand_array(sort_context_t *ctx)
+gen_rand_array(sort_context_t *ctx, uint32_t size)
 {
-  scanf("%u", &(ctx->size));
-  ctx->sort_size = ctx->size;
+  ctx->sort_size = size;
+  ctx->size = size;
   ctx->arr  = realloc(ctx->arr, ctx->size*sizeof(uint32_t));
   if(ctx->arr == NULL)
     return -1;
@@ -143,7 +143,6 @@ deinit_time_ctxs(sort_context_t *ctx)
 {
   for(int i=0; i<ctx->time_count; i++){
     free(ctx->ms_time[i].str);
-    free(&(ctx->ms_time[i]));
   }
 }
 
@@ -155,6 +154,7 @@ deinit_sort_ctx(sort_context_t **ctx)
   free((*ctx)->sort_arr->u_arr);
   free((*ctx)->arr);
   free((*ctx)->sort_arr);
+  free((*ctx)->ms_time);
   free(*ctx);
 }
 
@@ -176,7 +176,7 @@ set_time_context_text(time_context_t *tctx, sort_context_t *sctx, float time)
   static inline int
 add_time(clock_t start, clock_t end, sort_context_t *ctx)
 {
-  const float time = 1000*(((float)start)/((float)end)/CLOCKS_PER_SEC);
+  const float time = 1000*((((float)end) - ((float)start))/CLOCKS_PER_SEC);
 
   time_context_t *tctx = malloc(sizeof(time_context_t));
   if(tctx == NULL)

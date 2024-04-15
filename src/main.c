@@ -5,21 +5,21 @@
 #include "times.h"
 #include "utils.h"
 
-#define TEST_COUNT      1
+#define TEST_COUNT      5
 #define TEST_SIZE_COUNT 10
 
 
 const uint32_t test_sizes[TEST_SIZE_COUNT] = {
-  10000,
-  20000,
-  30000,
-  40000,
-  50000,
-  60000,
-  70000,
-  80000,
-  90000,
-  100000
+  1000,
+  2000,
+  3000,
+  4000,
+  5000,
+  6000,
+  7000,
+  8000,
+  9000,
+  10000
 };
 
 sort_context_t *ctx;
@@ -114,7 +114,9 @@ main_loop()
           printf("Error while parsing file\n");
         break;
       case '2':
-        if(gen_rand_array(ctx) == -1)
+        uint32_t size;
+        scanf("%u", &size);
+        if(gen_rand_array(ctx, size) == -1)
           printf("Error reallocing\n");
         break;
       case '3':
@@ -167,19 +169,21 @@ do_test()
       for(int k=0; k<4; k++){
         for(int o=0; o<4; o++){
           for(int l=1; l<4;l++){
-            gen_rand_array(test_sizes[i]);
+            gen_rand_array(ctx, test_sizes[j]);
             ctx->sort_index = k;
             if(l != 1){
-              ctx->sort_size = test_sizes[i]/l;
+              ctx->sort_size = test_sizes[j]/l;
+              ctx->presort_proc = 1.0f/(float)l;
               presort(ctx);
-            }
+            }else{
+              ctx->presort_proc = 0.0f;
+            } 
             ctx->sort_opt = o;
             execute_sort(ctx);
           }
         }
       }
     }
-    printf("!!!%u!!!\n", i);
   }
   print_times(ctx);
 }
