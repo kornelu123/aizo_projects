@@ -1,0 +1,1200 @@
+Insertion sort no 1, time: 4.1510000228881836[ms], size: 1000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 2, time: 3.6200001239776611[ms], size: 1000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 3, time: 2.6259999275207520[ms], size: 1000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 4, time: 1.8840000629425049[ms], size: 1000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 5, time: 1.6410000324249268[ms], size: 1000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 6, time: 1.3439999818801880[ms], size: 1000, pre-sorting: 0.33, options: type : float 
+Shell sort no 7, time: 0.1869999915361404[ms], size: 1000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 8, time: 0.1749999970197678[ms], size: 1000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 9, time: 0.2080000042915344[ms], size: 1000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 10, time: 0.2199999988079071[ms], size: 1000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 11, time: 0.3129999935626984[ms], size: 1000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 12, time: 0.1930000036954880[ms], size: 1000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 13, time: 0.1230000033974648[ms], size: 1000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 14, time: 0.1199999973177910[ms], size: 1000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 15, time: 0.1219999939203262[ms], size: 1000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 16, time: 0.1219999939203262[ms], size: 1000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 17, time: 0.1209999993443489[ms], size: 1000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 18, time: 0.1460000127553940[ms], size: 1000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 19, time: 0.1209999993443489[ms], size: 1000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 20, time: 0.1180000007152557[ms], size: 1000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 21, time: 0.1160000041127205[ms], size: 1000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 22, time: 0.1349999904632568[ms], size: 1000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 23, time: 0.1340000033378601[ms], size: 1000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 24, time: 0.1360000073909760[ms], size: 1000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 25, time: 4.8980002403259277[ms], size: 2000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 26, time: 4.8250002861022949[ms], size: 2000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 27, time: 5.1609997749328613[ms], size: 2000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 28, time: 5.0120000839233398[ms], size: 2000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 29, time: 5.0030002593994141[ms], size: 2000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 30, time: 4.9089999198913574[ms], size: 2000, pre-sorting: 0.33, options: type : float 
+Shell sort no 31, time: 0.4589999914169312[ms], size: 2000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 32, time: 0.4180000126361847[ms], size: 2000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 33, time: 0.4480000138282776[ms], size: 2000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 34, time: 0.6070000529289246[ms], size: 2000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 35, time: 0.4350000023841858[ms], size: 2000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 36, time: 0.4350000023841858[ms], size: 2000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 37, time: 0.2720000147819519[ms], size: 2000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 38, time: 0.2610000073909760[ms], size: 2000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 39, time: 0.3310000002384186[ms], size: 2000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 40, time: 0.3180000185966492[ms], size: 2000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 41, time: 0.2619999945163727[ms], size: 2000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 42, time: 0.2629999816417694[ms], size: 2000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 43, time: 0.2569999992847443[ms], size: 2000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 44, time: 0.2469999939203262[ms], size: 2000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 45, time: 0.2500000000000000[ms], size: 2000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 46, time: 0.2859999835491180[ms], size: 2000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 47, time: 0.2840000092983246[ms], size: 2000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 48, time: 0.2859999835491180[ms], size: 2000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 49, time: 10.9329996109008789[ms], size: 3000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 50, time: 10.8489999771118164[ms], size: 3000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 51, time: 11.3260002136230469[ms], size: 3000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 52, time: 11.2740001678466797[ms], size: 3000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 53, time: 12.2459993362426758[ms], size: 3000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 54, time: 11.2880001068115234[ms], size: 3000, pre-sorting: 0.33, options: type : float 
+Shell sort no 55, time: 0.6459999680519104[ms], size: 3000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 56, time: 0.6650000214576721[ms], size: 3000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 57, time: 0.6629999876022339[ms], size: 3000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 58, time: 0.6999999880790710[ms], size: 3000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 59, time: 0.7030000090599060[ms], size: 3000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 60, time: 0.8610000014305115[ms], size: 3000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 61, time: 0.3950000107288361[ms], size: 3000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 62, time: 0.3999999761581421[ms], size: 3000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 63, time: 0.3950000107288361[ms], size: 3000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 64, time: 0.4129999876022339[ms], size: 3000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 65, time: 0.4099999964237213[ms], size: 3000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 66, time: 0.4070000052452087[ms], size: 3000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 67, time: 0.5130000114440918[ms], size: 3000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 68, time: 0.4499999880790710[ms], size: 3000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 69, time: 0.3900000154972076[ms], size: 3000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 70, time: 0.4450000226497650[ms], size: 3000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 71, time: 0.4410000145435333[ms], size: 3000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 72, time: 0.4379999935626984[ms], size: 3000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 73, time: 20.4890003204345703[ms], size: 4000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 74, time: 19.8209991455078125[ms], size: 4000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 75, time: 19.6940002441406250[ms], size: 4000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 76, time: 21.0330009460449219[ms], size: 4000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 77, time: 19.8049983978271484[ms], size: 4000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 78, time: 20.6540012359619141[ms], size: 4000, pre-sorting: 0.33, options: type : float 
+Shell sort no 79, time: 0.9459999799728394[ms], size: 4000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 80, time: 0.9560000300407410[ms], size: 4000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 81, time: 0.9840000271797180[ms], size: 4000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 82, time: 1.0740000009536743[ms], size: 4000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 83, time: 0.9749999642372131[ms], size: 4000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 84, time: 0.9759999513626099[ms], size: 4000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 85, time: 0.6239999532699585[ms], size: 4000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 86, time: 0.5569999814033508[ms], size: 4000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 87, time: 0.5399999618530273[ms], size: 4000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 88, time: 0.6360000371932983[ms], size: 4000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 89, time: 0.5509999990463257[ms], size: 4000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 90, time: 0.5469999909400940[ms], size: 4000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 91, time: 0.5399999618530273[ms], size: 4000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 92, time: 0.5370000004768372[ms], size: 4000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 93, time: 0.5329999923706055[ms], size: 4000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 94, time: 0.6050000190734863[ms], size: 4000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 95, time: 0.6079999804496765[ms], size: 4000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 96, time: 0.6019999980926514[ms], size: 4000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 97, time: 30.2789993286132812[ms], size: 5000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 98, time: 30.1389999389648438[ms], size: 5000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 99, time: 31.6849975585937500[ms], size: 5000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 100, time: 30.8320007324218750[ms], size: 5000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 101, time: 32.2000007629394531[ms], size: 5000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 102, time: 32.5400009155273438[ms], size: 5000, pre-sorting: 0.33, options: type : float 
+Shell sort no 103, time: 1.4120000600814819[ms], size: 5000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 104, time: 1.3930000066757202[ms], size: 5000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 105, time: 1.9240000247955322[ms], size: 5000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 106, time: 1.8819999694824219[ms], size: 5000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 107, time: 1.4989999532699585[ms], size: 5000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 108, time: 2.0409998893737793[ms], size: 5000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 109, time: 0.9420000314712524[ms], size: 5000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 110, time: 0.7999999523162842[ms], size: 5000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 111, time: 0.7989999651908875[ms], size: 5000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 112, time: 0.7720000147819519[ms], size: 5000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 113, time: 0.7649999856948853[ms], size: 5000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 114, time: 0.7639999985694885[ms], size: 5000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 115, time: 0.7140000462532043[ms], size: 5000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 116, time: 0.6869999766349792[ms], size: 5000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 117, time: 0.6820000410079956[ms], size: 5000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 118, time: 0.8930000066757202[ms], size: 5000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 119, time: 0.7709999680519104[ms], size: 5000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 120, time: 0.7789999842643738[ms], size: 5000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 121, time: 45.1930007934570312[ms], size: 6000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 122, time: 44.1450004577636719[ms], size: 6000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 123, time: 46.2569999694824219[ms], size: 6000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 124, time: 45.1629981994628906[ms], size: 6000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 125, time: 46.2779998779296875[ms], size: 6000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 126, time: 44.4500007629394531[ms], size: 6000, pre-sorting: 0.33, options: type : float 
+Shell sort no 127, time: 1.5640000104904175[ms], size: 6000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 128, time: 1.5320000648498535[ms], size: 6000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 129, time: 1.7059999704360962[ms], size: 6000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 130, time: 1.6579999923706055[ms], size: 6000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 131, time: 1.7100000381469727[ms], size: 6000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 132, time: 1.6399999856948853[ms], size: 6000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 133, time: 0.8719999790191650[ms], size: 6000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 134, time: 0.8510000109672546[ms], size: 6000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 135, time: 0.8580000400543213[ms], size: 6000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 136, time: 0.9779999852180481[ms], size: 6000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 137, time: 0.9790000319480896[ms], size: 6000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 138, time: 1.0989999771118164[ms], size: 6000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 139, time: 0.9889999628067017[ms], size: 6000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 140, time: 0.9430000185966492[ms], size: 6000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 141, time: 0.9399999976158142[ms], size: 6000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 142, time: 1.0069999694824219[ms], size: 6000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 143, time: 1.0900000333786011[ms], size: 6000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 144, time: 1.0000000000000000[ms], size: 6000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 145, time: 59.9469985961914062[ms], size: 7000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 146, time: 61.4729995727539062[ms], size: 7000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 147, time: 61.5429992675781250[ms], size: 7000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 148, time: 61.5929985046386719[ms], size: 7000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 149, time: 62.3680000305175781[ms], size: 7000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 150, time: 61.5929985046386719[ms], size: 7000, pre-sorting: 0.33, options: type : float 
+Shell sort no 151, time: 1.9180001020431519[ms], size: 7000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 152, time: 1.9850000143051147[ms], size: 7000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 153, time: 1.9110000133514404[ms], size: 7000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 154, time: 1.8519999980926514[ms], size: 7000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 155, time: 2.0179998874664307[ms], size: 7000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 156, time: 2.2639999389648438[ms], size: 7000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 157, time: 1.1220000982284546[ms], size: 7000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 158, time: 1.0189999341964722[ms], size: 7000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 159, time: 1.0089999437332153[ms], size: 7000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 160, time: 1.0369999408721924[ms], size: 7000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 161, time: 1.0189999341964722[ms], size: 7000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 162, time: 1.0180000066757202[ms], size: 7000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 163, time: 0.9929999709129333[ms], size: 7000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 164, time: 0.9689999818801880[ms], size: 7000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 165, time: 0.9759999513626099[ms], size: 7000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 166, time: 1.1030000448226929[ms], size: 7000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 167, time: 1.1499999761581421[ms], size: 7000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 168, time: 1.2879999876022339[ms], size: 7000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 169, time: 79.9359970092773438[ms], size: 8000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 170, time: 79.2710037231445312[ms], size: 8000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 171, time: 79.6699981689453125[ms], size: 8000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 172, time: 79.7720031738281250[ms], size: 8000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 173, time: 80.3479995727539062[ms], size: 8000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 174, time: 78.9809951782226562[ms], size: 8000, pre-sorting: 0.33, options: type : float 
+Shell sort no 175, time: 2.2829999923706055[ms], size: 8000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 176, time: 2.2579998970031738[ms], size: 8000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 177, time: 2.4240000247955322[ms], size: 8000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 178, time: 2.3889999389648438[ms], size: 8000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 179, time: 2.3089997768402100[ms], size: 8000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 180, time: 2.8369998931884766[ms], size: 8000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 181, time: 1.1710000038146973[ms], size: 8000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 182, time: 1.1899999380111694[ms], size: 8000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 183, time: 1.3020000457763672[ms], size: 8000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 184, time: 1.1879999637603760[ms], size: 8000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 185, time: 1.1640000343322754[ms], size: 8000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 186, time: 1.5470000505447388[ms], size: 8000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 187, time: 1.2220000028610229[ms], size: 8000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 188, time: 1.2300000190734863[ms], size: 8000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 189, time: 1.1330000162124634[ms], size: 8000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 190, time: 1.7509999275207520[ms], size: 8000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 191, time: 1.2939999103546143[ms], size: 8000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 192, time: 1.2680000066757202[ms], size: 8000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 193, time: 98.1609954833984375[ms], size: 9000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 194, time: 99.6019973754882812[ms], size: 9000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 195, time: 99.2050018310546875[ms], size: 9000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 196, time: 99.5790023803710938[ms], size: 9000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 197, time: 100.1900024414062500[ms], size: 9000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 198, time: 102.0680007934570312[ms], size: 9000, pre-sorting: 0.33, options: type : float 
+Shell sort no 199, time: 2.6990001201629639[ms], size: 9000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 200, time: 2.5490000247955322[ms], size: 9000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 201, time: 2.8699998855590820[ms], size: 9000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 202, time: 2.5770001411437988[ms], size: 9000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 203, time: 2.6019999980926514[ms], size: 9000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 204, time: 2.6210000514984131[ms], size: 9000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 205, time: 1.3339999914169312[ms], size: 9000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 206, time: 1.3140000104904175[ms], size: 9000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 207, time: 1.4400000572204590[ms], size: 9000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 208, time: 1.3919999599456787[ms], size: 9000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 209, time: 1.3320000171661377[ms], size: 9000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 210, time: 1.4029999971389771[ms], size: 9000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 211, time: 1.4730000495910645[ms], size: 9000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 212, time: 1.3569999933242798[ms], size: 9000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 213, time: 1.2789999246597290[ms], size: 9000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 214, time: 1.4850000143051147[ms], size: 9000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 215, time: 1.4440000057220459[ms], size: 9000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 216, time: 1.5059999227523804[ms], size: 9000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 217, time: 122.6989974975585938[ms], size: 10000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 218, time: 124.5919952392578125[ms], size: 10000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 219, time: 120.6539993286132812[ms], size: 10000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 220, time: 125.4400024414062500[ms], size: 10000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 221, time: 122.0970001220703125[ms], size: 10000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 222, time: 122.6200027465820312[ms], size: 10000, pre-sorting: 0.33, options: type : float 
+Shell sort no 223, time: 2.9370000362396240[ms], size: 10000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 224, time: 2.9470000267028809[ms], size: 10000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 225, time: 3.0720000267028809[ms], size: 10000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 226, time: 3.0230000019073486[ms], size: 10000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 227, time: 3.3730001449584961[ms], size: 10000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 228, time: 2.8849999904632568[ms], size: 10000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 229, time: 1.4919999837875366[ms], size: 10000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 230, time: 1.8269999027252197[ms], size: 10000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 231, time: 1.6019999980926514[ms], size: 10000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 232, time: 1.6529999971389771[ms], size: 10000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 233, time: 1.6519999504089355[ms], size: 10000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 234, time: 2.5309998989105225[ms], size: 10000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 235, time: 2.3179998397827148[ms], size: 10000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 236, time: 1.4469999074935913[ms], size: 10000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 237, time: 1.5740000009536743[ms], size: 10000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 238, time: 2.2209999561309814[ms], size: 10000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 239, time: 2.8589999675750732[ms], size: 10000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 240, time: 2.8079998493194580[ms], size: 10000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 241, time: 1.3799999952316284[ms], size: 1000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 242, time: 1.4390000104904175[ms], size: 1000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 243, time: 1.5299999713897705[ms], size: 1000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 244, time: 1.3510000705718994[ms], size: 1000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 245, time: 1.4179999828338623[ms], size: 1000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 246, time: 1.3630000352859497[ms], size: 1000, pre-sorting: 0.33, options: type : float 
+Shell sort no 247, time: 0.1780000030994415[ms], size: 1000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 248, time: 0.2229999899864197[ms], size: 1000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 249, time: 0.1979999989271164[ms], size: 1000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 250, time: 0.1920000016689301[ms], size: 1000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 251, time: 0.2240000069141388[ms], size: 1000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 252, time: 0.2099999934434891[ms], size: 1000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 253, time: 0.1330000013113022[ms], size: 1000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 254, time: 0.1309999972581863[ms], size: 1000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 255, time: 0.1289999932050705[ms], size: 1000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 256, time: 0.1360000073909760[ms], size: 1000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 257, time: 0.1360000073909760[ms], size: 1000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 258, time: 0.1199999973177910[ms], size: 1000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 259, time: 0.1180000007152557[ms], size: 1000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 260, time: 0.1209999993443489[ms], size: 1000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 261, time: 0.1160000041127205[ms], size: 1000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 262, time: 0.1369999945163727[ms], size: 1000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 263, time: 0.1360000073909760[ms], size: 1000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 264, time: 0.1319999992847443[ms], size: 1000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 265, time: 4.8179998397827148[ms], size: 2000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 266, time: 5.3539996147155762[ms], size: 2000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 267, time: 4.9899997711181641[ms], size: 2000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 268, time: 5.0980000495910645[ms], size: 2000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 269, time: 5.1350002288818359[ms], size: 2000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 270, time: 5.1930003166198730[ms], size: 2000, pre-sorting: 0.33, options: type : float 
+Shell sort no 271, time: 0.4699999988079071[ms], size: 2000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 272, time: 0.5329999923706055[ms], size: 2000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 273, time: 0.4199999868869781[ms], size: 2000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 274, time: 0.4259999990463257[ms], size: 2000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 275, time: 0.4970000088214874[ms], size: 2000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 276, time: 0.4860000014305115[ms], size: 2000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 277, time: 0.2950000166893005[ms], size: 2000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 278, time: 0.3140000104904175[ms], size: 2000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 279, time: 0.2599999904632568[ms], size: 2000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 280, time: 0.2629999816417694[ms], size: 2000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 281, time: 0.2610000073909760[ms], size: 2000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 282, time: 0.2779999971389771[ms], size: 2000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 283, time: 0.2779999971389771[ms], size: 2000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 284, time: 0.2730000019073486[ms], size: 2000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 285, time: 0.2910000085830688[ms], size: 2000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 286, time: 0.3089999854564667[ms], size: 2000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 287, time: 0.3140000104904175[ms], size: 2000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 288, time: 0.3149999976158142[ms], size: 2000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 289, time: 11.4489994049072266[ms], size: 3000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 290, time: 11.4970006942749023[ms], size: 3000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 291, time: 10.6969995498657227[ms], size: 3000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 292, time: 11.5030002593994141[ms], size: 3000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 293, time: 12.6449995040893555[ms], size: 3000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 294, time: 11.1429996490478516[ms], size: 3000, pre-sorting: 0.33, options: type : float 
+Shell sort no 295, time: 0.6719999909400940[ms], size: 3000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 296, time: 0.7279999852180481[ms], size: 3000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 297, time: 0.8999999761581421[ms], size: 3000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 298, time: 0.7709999680519104[ms], size: 3000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 299, time: 0.7019999623298645[ms], size: 3000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 300, time: 0.7039999961853027[ms], size: 3000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 301, time: 0.4090000092983246[ms], size: 3000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 302, time: 0.4569999873638153[ms], size: 3000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 303, time: 0.3950000107288361[ms], size: 3000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 304, time: 0.4090000092983246[ms], size: 3000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 305, time: 0.4070000052452087[ms], size: 3000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 306, time: 0.4030000269412994[ms], size: 3000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 307, time: 0.3930000066757202[ms], size: 3000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 308, time: 0.4490000009536743[ms], size: 3000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 309, time: 0.3939999938011169[ms], size: 3000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 310, time: 0.5559999942779541[ms], size: 3000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 311, time: 0.4440000057220459[ms], size: 3000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 312, time: 0.4420000016689301[ms], size: 3000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 313, time: 19.9249992370605469[ms], size: 4000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 314, time: 20.2869987487792969[ms], size: 4000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 315, time: 19.9449996948242188[ms], size: 4000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 316, time: 20.1849994659423828[ms], size: 4000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 317, time: 20.2549991607666016[ms], size: 4000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 318, time: 19.6539993286132812[ms], size: 4000, pre-sorting: 0.33, options: type : float 
+Shell sort no 319, time: 1.0489999055862427[ms], size: 4000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 320, time: 1.0119999647140503[ms], size: 4000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 321, time: 1.0410000085830688[ms], size: 4000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 322, time: 1.1529999971389771[ms], size: 4000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 323, time: 0.9590000510215759[ms], size: 4000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 324, time: 0.9689999818801880[ms], size: 4000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 325, time: 0.5680000185966492[ms], size: 4000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 326, time: 0.5450000166893005[ms], size: 4000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 327, time: 0.5479999780654907[ms], size: 4000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 328, time: 0.5530000329017639[ms], size: 4000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 329, time: 0.5549999475479126[ms], size: 4000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 330, time: 0.5530000329017639[ms], size: 4000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 331, time: 0.5350000262260437[ms], size: 4000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 332, time: 0.5329999923706055[ms], size: 4000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 333, time: 0.5920000076293945[ms], size: 4000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 334, time: 0.8009999990463257[ms], size: 4000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 335, time: 0.6050000190734863[ms], size: 4000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 336, time: 0.6159999966621399[ms], size: 4000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 337, time: 31.0489997863769531[ms], size: 5000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 338, time: 29.9729995727539062[ms], size: 5000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 339, time: 31.3699989318847656[ms], size: 5000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 340, time: 29.7279987335205078[ms], size: 5000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 341, time: 32.6800003051757812[ms], size: 5000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 342, time: 30.4770011901855469[ms], size: 5000, pre-sorting: 0.33, options: type : float 
+Shell sort no 343, time: 1.3300000429153442[ms], size: 5000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 344, time: 1.3210000991821289[ms], size: 5000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 345, time: 1.3009999990463257[ms], size: 5000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 346, time: 1.2519999742507935[ms], size: 5000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 347, time: 1.2530000209808350[ms], size: 5000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 348, time: 1.3170000314712524[ms], size: 5000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 349, time: 0.7039999961853027[ms], size: 5000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 350, time: 0.6910000443458557[ms], size: 5000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 351, time: 0.7110000252723694[ms], size: 5000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 352, time: 0.7089999914169312[ms], size: 5000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 353, time: 0.7789999842643738[ms], size: 5000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 354, time: 0.6999999880790710[ms], size: 5000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 355, time: 0.6949999928474426[ms], size: 5000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 356, time: 0.6869999766349792[ms], size: 5000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 357, time: 0.6769999861717224[ms], size: 5000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 358, time: 0.7689999938011169[ms], size: 5000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 359, time: 0.9560000300407410[ms], size: 5000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 360, time: 0.9239999651908875[ms], size: 5000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 361, time: 44.1720008850097656[ms], size: 6000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 362, time: 44.3950004577636719[ms], size: 6000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 363, time: 44.0480003356933594[ms], size: 6000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 364, time: 44.1100006103515625[ms], size: 6000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 365, time: 43.6559982299804688[ms], size: 6000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 366, time: 44.0180015563964844[ms], size: 6000, pre-sorting: 0.33, options: type : float 
+Shell sort no 367, time: 1.5909999608993530[ms], size: 6000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 368, time: 1.7059999704360962[ms], size: 6000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 369, time: 1.6180000305175781[ms], size: 6000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 370, time: 1.5440000295639038[ms], size: 6000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 371, time: 1.6909999847412109[ms], size: 6000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 372, time: 1.6059999465942383[ms], size: 6000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 373, time: 0.8650000095367432[ms], size: 6000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 374, time: 0.8700000047683716[ms], size: 6000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 375, time: 0.8539999723434448[ms], size: 6000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 376, time: 0.9830000400543213[ms], size: 6000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 377, time: 0.8539999723434448[ms], size: 6000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 378, time: 0.8569999933242798[ms], size: 6000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 379, time: 0.8489999771118164[ms], size: 6000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 380, time: 0.8379999995231628[ms], size: 6000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 381, time: 0.8330000042915344[ms], size: 6000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 382, time: 0.9360000491142273[ms], size: 6000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 383, time: 1.0230000019073486[ms], size: 6000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 384, time: 1.0939999818801880[ms], size: 6000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 385, time: 60.1469993591308594[ms], size: 7000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 386, time: 59.7940025329589844[ms], size: 7000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 387, time: 61.1089973449707031[ms], size: 7000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 388, time: 62.5220031738281250[ms], size: 7000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 389, time: 61.6130027770996094[ms], size: 7000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 390, time: 60.7070007324218750[ms], size: 7000, pre-sorting: 0.33, options: type : float 
+Shell sort no 391, time: 1.8140000104904175[ms], size: 7000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 392, time: 1.7869999408721924[ms], size: 7000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 393, time: 1.8200000524520874[ms], size: 7000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 394, time: 1.8339999914169312[ms], size: 7000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 395, time: 1.9330000877380371[ms], size: 7000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 396, time: 1.9120000600814819[ms], size: 7000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 397, time: 1.0910000801086426[ms], size: 7000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 398, time: 1.0700000524520874[ms], size: 7000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 399, time: 1.1449999809265137[ms], size: 7000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 400, time: 1.1629999876022339[ms], size: 7000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 401, time: 1.7569999694824219[ms], size: 7000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 402, time: 1.0099999904632568[ms], size: 7000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 403, time: 1.0199999809265137[ms], size: 7000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 404, time: 1.0390000343322754[ms], size: 7000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 405, time: 0.9950000047683716[ms], size: 7000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 406, time: 1.1130000352859497[ms], size: 7000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 407, time: 1.1169999837875366[ms], size: 7000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 408, time: 1.1009999513626099[ms], size: 7000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 409, time: 77.8919982910156250[ms], size: 8000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 410, time: 78.5429992675781250[ms], size: 8000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 411, time: 76.4749984741210938[ms], size: 8000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 412, time: 80.9520034790039062[ms], size: 8000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 413, time: 77.4670028686523438[ms], size: 8000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 414, time: 78.3689956665039062[ms], size: 8000, pre-sorting: 0.33, options: type : float 
+Shell sort no 415, time: 2.3610000610351562[ms], size: 8000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 416, time: 2.3070001602172852[ms], size: 8000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 417, time: 2.2290000915527344[ms], size: 8000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 418, time: 2.1629998683929443[ms], size: 8000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 419, time: 2.6189999580383301[ms], size: 8000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 420, time: 2.2320001125335693[ms], size: 8000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 421, time: 1.1859999895095825[ms], size: 8000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 422, time: 1.2910000085830688[ms], size: 8000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 423, time: 1.2509999275207520[ms], size: 8000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 424, time: 1.1959999799728394[ms], size: 8000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 425, time: 1.1699999570846558[ms], size: 8000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 426, time: 1.2699999809265137[ms], size: 8000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 427, time: 1.2440000772476196[ms], size: 8000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 428, time: 1.1430000066757202[ms], size: 8000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 429, time: 1.2630000114440918[ms], size: 8000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 430, time: 1.2810000181198120[ms], size: 8000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 431, time: 1.3790000677108765[ms], size: 8000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 432, time: 1.4359999895095825[ms], size: 8000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 433, time: 102.1300048828125000[ms], size: 9000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 434, time: 98.1340026855468750[ms], size: 9000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 435, time: 97.0060043334960938[ms], size: 9000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 436, time: 99.3330001831054688[ms], size: 9000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 437, time: 100.1699981689453125[ms], size: 9000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 438, time: 99.6959991455078125[ms], size: 9000, pre-sorting: 0.33, options: type : float 
+Shell sort no 439, time: 2.6029999256134033[ms], size: 9000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 440, time: 2.5350000858306885[ms], size: 9000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 441, time: 2.4900000095367432[ms], size: 9000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 442, time: 2.9010000228881836[ms], size: 9000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 443, time: 2.5680000782012939[ms], size: 9000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 444, time: 2.5500001907348633[ms], size: 9000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 445, time: 1.4290000200271606[ms], size: 9000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 446, time: 1.3309999704360962[ms], size: 9000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 447, time: 1.9559999704360962[ms], size: 9000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 448, time: 1.3270000219345093[ms], size: 9000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 449, time: 1.4019999504089355[ms], size: 9000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 450, time: 1.3910000324249268[ms], size: 9000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 451, time: 1.2840000391006470[ms], size: 9000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 452, time: 1.4490000009536743[ms], size: 9000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 453, time: 1.2799999713897705[ms], size: 9000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 454, time: 1.4529999494552612[ms], size: 9000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 455, time: 1.4509999752044678[ms], size: 9000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 456, time: 1.4259999990463257[ms], size: 9000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 457, time: 123.1879959106445312[ms], size: 10000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 458, time: 119.9489974975585938[ms], size: 10000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 459, time: 123.0230026245117188[ms], size: 10000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 460, time: 122.0100021362304688[ms], size: 10000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 461, time: 122.6179962158203125[ms], size: 10000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 462, time: 124.8339996337890625[ms], size: 10000, pre-sorting: 0.33, options: type : float 
+Shell sort no 463, time: 3.2439999580383301[ms], size: 10000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 464, time: 2.9979999065399170[ms], size: 10000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 465, time: 2.9730000495910645[ms], size: 10000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 466, time: 2.8750000000000000[ms], size: 10000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 467, time: 2.9559998512268066[ms], size: 10000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 468, time: 3.0420000553131104[ms], size: 10000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 469, time: 1.5630000829696655[ms], size: 10000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 470, time: 1.7590000629425049[ms], size: 10000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 471, time: 1.5379999876022339[ms], size: 10000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 472, time: 1.5059999227523804[ms], size: 10000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 473, time: 1.4830000400543213[ms], size: 10000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 474, time: 1.5010000467300415[ms], size: 10000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 475, time: 1.6790000200271606[ms], size: 10000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 476, time: 1.4270000457763672[ms], size: 10000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 477, time: 1.5269999504089355[ms], size: 10000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 478, time: 1.6080000400543213[ms], size: 10000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 479, time: 1.8149999380111694[ms], size: 10000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 480, time: 1.8209999799728394[ms], size: 10000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 481, time: 1.2590000629425049[ms], size: 1000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 482, time: 1.2440000772476196[ms], size: 1000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 483, time: 1.2560000419616699[ms], size: 1000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 484, time: 1.4919999837875366[ms], size: 1000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 485, time: 1.2849999666213989[ms], size: 1000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 486, time: 1.2939999103546143[ms], size: 1000, pre-sorting: 0.33, options: type : float 
+Shell sort no 487, time: 0.1809999942779541[ms], size: 1000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 488, time: 0.1780000030994415[ms], size: 1000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 489, time: 0.1759999990463257[ms], size: 1000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 490, time: 0.1920000016689301[ms], size: 1000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 491, time: 0.3129999935626984[ms], size: 1000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 492, time: 0.1900000125169754[ms], size: 1000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 493, time: 0.1239999979734421[ms], size: 1000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 494, time: 0.1209999993443489[ms], size: 1000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 495, time: 0.1789999902248383[ms], size: 1000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 496, time: 0.1209999993443489[ms], size: 1000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 497, time: 0.1209999993443489[ms], size: 1000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 498, time: 0.1199999973177910[ms], size: 1000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 499, time: 0.1180000007152557[ms], size: 1000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 500, time: 0.1180000007152557[ms], size: 1000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 501, time: 0.1160000041127205[ms], size: 1000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 502, time: 0.1360000073909760[ms], size: 1000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 503, time: 0.1340000033378601[ms], size: 1000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 504, time: 0.1319999992847443[ms], size: 1000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 505, time: 4.8500003814697266[ms], size: 2000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 506, time: 4.8210000991821289[ms], size: 2000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 507, time: 5.0989999771118164[ms], size: 2000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 508, time: 5.1189999580383301[ms], size: 2000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 509, time: 4.9899997711181641[ms], size: 2000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 510, time: 5.4580001831054688[ms], size: 2000, pre-sorting: 0.33, options: type : float 
+Shell sort no 511, time: 0.4149999916553497[ms], size: 2000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 512, time: 0.4020000100135803[ms], size: 2000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 513, time: 0.4149999916553497[ms], size: 2000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 514, time: 0.4229999780654907[ms], size: 2000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 515, time: 0.4410000145435333[ms], size: 2000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 516, time: 0.4290000200271606[ms], size: 2000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 517, time: 0.2579999864101410[ms], size: 2000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 518, time: 0.2619999945163727[ms], size: 2000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 519, time: 0.2569999992847443[ms], size: 2000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 520, time: 0.2680000066757202[ms], size: 2000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 521, time: 0.2690000236034393[ms], size: 2000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 522, time: 0.2560000121593475[ms], size: 2000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 523, time: 0.2500000000000000[ms], size: 2000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 524, time: 0.2500000000000000[ms], size: 2000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 525, time: 0.2479999959468842[ms], size: 2000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 526, time: 0.2840000092983246[ms], size: 2000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 527, time: 0.3159999847412109[ms], size: 2000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 528, time: 0.2809999883174896[ms], size: 2000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 529, time: 11.9270000457763672[ms], size: 3000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 530, time: 11.5210008621215820[ms], size: 3000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 531, time: 10.7290000915527344[ms], size: 3000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 532, time: 12.4169998168945312[ms], size: 3000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 533, time: 11.1210002899169922[ms], size: 3000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 534, time: 11.4799995422363281[ms], size: 3000, pre-sorting: 0.33, options: type : float 
+Shell sort no 535, time: 0.6840000152587891[ms], size: 3000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 536, time: 0.6820000410079956[ms], size: 3000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 537, time: 0.6680000424385071[ms], size: 3000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 538, time: 0.6850000023841858[ms], size: 3000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 539, time: 0.8219999670982361[ms], size: 3000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 540, time: 0.6890000104904175[ms], size: 3000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 541, time: 0.4129999876022339[ms], size: 3000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 542, time: 0.4030000269412994[ms], size: 3000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 543, time: 0.4160000085830688[ms], size: 3000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 544, time: 0.4099999964237213[ms], size: 3000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 545, time: 0.4099999964237213[ms], size: 3000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 546, time: 0.4780000150203705[ms], size: 3000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 547, time: 0.3910000026226044[ms], size: 3000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 548, time: 0.3910000026226044[ms], size: 3000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 549, time: 0.3869999945163727[ms], size: 3000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 550, time: 0.4440000057220459[ms], size: 3000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 551, time: 0.4410000145435333[ms], size: 3000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 552, time: 0.4429999887943268[ms], size: 3000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 553, time: 21.4589996337890625[ms], size: 4000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 554, time: 19.4189987182617188[ms], size: 4000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 555, time: 19.6129989624023438[ms], size: 4000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 556, time: 20.3850002288818359[ms], size: 4000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 557, time: 19.9689998626708984[ms], size: 4000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 558, time: 19.6020011901855469[ms], size: 4000, pre-sorting: 0.33, options: type : float 
+Shell sort no 559, time: 1.1190000772476196[ms], size: 4000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 560, time: 1.0270000696182251[ms], size: 4000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 561, time: 1.0140000581741333[ms], size: 4000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 562, time: 0.9720000028610229[ms], size: 4000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 563, time: 0.9720000028610229[ms], size: 4000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 564, time: 1.0119999647140503[ms], size: 4000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 565, time: 0.6190000176429749[ms], size: 4000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 566, time: 0.5489999651908875[ms], size: 4000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 567, time: 0.5410000085830688[ms], size: 4000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 568, time: 0.5629999637603760[ms], size: 4000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 569, time: 0.6699999570846558[ms], size: 4000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 570, time: 0.5640000104904175[ms], size: 4000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 571, time: 0.7879999876022339[ms], size: 4000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 572, time: 1.2000000476837158[ms], size: 4000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 573, time: 0.7370000481605530[ms], size: 4000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 574, time: 0.6539999842643738[ms], size: 4000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 575, time: 0.6880000233650208[ms], size: 4000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 576, time: 0.5960000157356262[ms], size: 4000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 577, time: 30.6679992675781250[ms], size: 5000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 578, time: 31.3960018157958984[ms], size: 5000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 579, time: 30.3509998321533203[ms], size: 5000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 580, time: 38.7550010681152344[ms], size: 5000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 581, time: 31.0919990539550781[ms], size: 5000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 582, time: 31.3589973449707031[ms], size: 5000, pre-sorting: 0.33, options: type : float 
+Shell sort no 583, time: 1.2539999485015869[ms], size: 5000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 584, time: 1.2720000743865967[ms], size: 5000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 585, time: 1.2860000133514404[ms], size: 5000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 586, time: 1.2479999065399170[ms], size: 5000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 587, time: 1.3370000123977661[ms], size: 5000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 588, time: 1.2590000629425049[ms], size: 5000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 589, time: 0.7229999899864197[ms], size: 5000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 590, time: 0.8210000395774841[ms], size: 5000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 591, time: 0.7689999938011169[ms], size: 5000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 592, time: 0.7189999818801880[ms], size: 5000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 593, time: 0.7520000338554382[ms], size: 5000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 594, time: 0.7050000429153442[ms], size: 5000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 595, time: 0.6919999718666077[ms], size: 5000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 596, time: 0.6820000410079956[ms], size: 5000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 597, time: 0.6830000281333923[ms], size: 5000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 598, time: 0.7739999890327454[ms], size: 5000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 599, time: 0.8069999814033508[ms], size: 5000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 600, time: 0.8440000414848328[ms], size: 5000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 601, time: 43.2039985656738281[ms], size: 6000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 602, time: 43.5970001220703125[ms], size: 6000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 603, time: 43.2430000305175781[ms], size: 6000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 604, time: 44.8569984436035156[ms], size: 6000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 605, time: 43.7750015258789062[ms], size: 6000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 606, time: 45.5559997558593750[ms], size: 6000, pre-sorting: 0.33, options: type : float 
+Shell sort no 607, time: 1.5279999971389771[ms], size: 6000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 608, time: 1.5449999570846558[ms], size: 6000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 609, time: 1.5160000324249268[ms], size: 6000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 610, time: 1.5670000314712524[ms], size: 6000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 611, time: 1.8449999094009399[ms], size: 6000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 612, time: 1.7250000238418579[ms], size: 6000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 613, time: 1.0140000581741333[ms], size: 6000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 614, time: 0.8689999580383301[ms], size: 6000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 615, time: 0.9300000071525574[ms], size: 6000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 616, time: 0.8740000128746033[ms], size: 6000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 617, time: 0.9490000009536743[ms], size: 6000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 618, time: 0.8569999933242798[ms], size: 6000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 619, time: 0.8590000271797180[ms], size: 6000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 620, time: 0.8399999737739563[ms], size: 6000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 621, time: 0.8270000219345093[ms], size: 6000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 622, time: 0.9459999799728394[ms], size: 6000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 623, time: 0.9689999818801880[ms], size: 6000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 624, time: 0.9319999814033508[ms], size: 6000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 625, time: 60.2430000305175781[ms], size: 7000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 626, time: 58.8889999389648438[ms], size: 7000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 627, time: 59.5589981079101562[ms], size: 7000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 628, time: 59.7620010375976562[ms], size: 7000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 629, time: 61.9809989929199219[ms], size: 7000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 630, time: 59.5889968872070312[ms], size: 7000, pre-sorting: 0.33, options: type : float 
+Shell sort no 631, time: 1.9270000457763672[ms], size: 7000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 632, time: 1.8980000019073486[ms], size: 7000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 633, time: 1.8479999303817749[ms], size: 7000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 634, time: 1.8609999418258667[ms], size: 7000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 635, time: 1.9340000152587891[ms], size: 7000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 636, time: 1.8479999303817749[ms], size: 7000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 637, time: 1.0130000114440918[ms], size: 7000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 638, time: 1.4400000572204590[ms], size: 7000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 639, time: 1.0000000000000000[ms], size: 7000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 640, time: 1.0119999647140503[ms], size: 7000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 641, time: 1.0150001049041748[ms], size: 7000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 642, time: 1.0089999437332153[ms], size: 7000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 643, time: 0.9800000190734863[ms], size: 7000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 644, time: 0.9879999756813049[ms], size: 7000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 645, time: 1.0440000295639038[ms], size: 7000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 646, time: 1.1230000257492065[ms], size: 7000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 647, time: 1.2879999876022339[ms], size: 7000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 648, time: 1.1200000047683716[ms], size: 7000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 649, time: 77.0920028686523438[ms], size: 8000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 650, time: 76.8249969482421875[ms], size: 8000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 651, time: 79.9430007934570312[ms], size: 8000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 652, time: 80.4430007934570312[ms], size: 8000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 653, time: 85.2319946289062500[ms], size: 8000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 654, time: 96.6610031127929688[ms], size: 8000, pre-sorting: 0.33, options: type : float 
+Shell sort no 655, time: 2.4850001335144043[ms], size: 8000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 656, time: 2.1979999542236328[ms], size: 8000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 657, time: 2.1419999599456787[ms], size: 8000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 658, time: 2.1569998264312744[ms], size: 8000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 659, time: 2.2780001163482666[ms], size: 8000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 660, time: 2.3529999256134033[ms], size: 8000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 661, time: 1.3090000152587891[ms], size: 8000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 662, time: 1.7770000696182251[ms], size: 8000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 663, time: 1.2919999361038208[ms], size: 8000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 664, time: 1.2660000324249268[ms], size: 8000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 665, time: 1.1540000438690186[ms], size: 8000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 666, time: 1.2750000953674316[ms], size: 8000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 667, time: 1.2309999465942383[ms], size: 8000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 668, time: 1.1250000000000000[ms], size: 8000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 669, time: 1.2479999065399170[ms], size: 8000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 670, time: 1.2669999599456787[ms], size: 8000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 671, time: 1.3339999914169312[ms], size: 8000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 672, time: 1.2740000486373901[ms], size: 8000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 673, time: 99.4219970703125000[ms], size: 9000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 674, time: 97.1740036010742188[ms], size: 9000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 675, time: 98.4560012817382812[ms], size: 9000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 676, time: 99.5979995727539062[ms], size: 9000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 677, time: 102.2890014648437500[ms], size: 9000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 678, time: 100.8580017089843750[ms], size: 9000, pre-sorting: 0.33, options: type : float 
+Shell sort no 679, time: 2.6549999713897705[ms], size: 9000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 680, time: 2.5339999198913574[ms], size: 9000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 681, time: 2.7260000705718994[ms], size: 9000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 682, time: 2.7179999351501465[ms], size: 9000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 683, time: 2.4969999790191650[ms], size: 9000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 684, time: 2.4880001544952393[ms], size: 9000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 685, time: 1.3200000524520874[ms], size: 9000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 686, time: 1.3210000991821289[ms], size: 9000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 687, time: 1.7310000658035278[ms], size: 9000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 688, time: 1.3350000381469727[ms], size: 9000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 689, time: 1.3370000123977661[ms], size: 9000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 690, time: 1.3070000410079956[ms], size: 9000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 691, time: 1.3579999208450317[ms], size: 9000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 692, time: 1.2779999971389771[ms], size: 9000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 693, time: 1.4740000963211060[ms], size: 9000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 694, time: 1.5829999446868896[ms], size: 9000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 695, time: 1.5720000267028809[ms], size: 9000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 696, time: 1.5630000829696655[ms], size: 9000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 697, time: 120.2019958496093750[ms], size: 10000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 698, time: 122.2549972534179688[ms], size: 10000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 699, time: 122.0979995727539062[ms], size: 10000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 700, time: 123.7019958496093750[ms], size: 10000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 701, time: 125.5619964599609375[ms], size: 10000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 702, time: 124.3830032348632812[ms], size: 10000, pre-sorting: 0.33, options: type : float 
+Shell sort no 703, time: 3.1250000000000000[ms], size: 10000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 704, time: 3.8519999980926514[ms], size: 10000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 705, time: 2.9279999732971191[ms], size: 10000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 706, time: 3.1890001296997070[ms], size: 10000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 707, time: 2.8150000572204590[ms], size: 10000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 708, time: 2.8510000705718994[ms], size: 10000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 709, time: 1.4969999790191650[ms], size: 10000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 710, time: 1.5460000038146973[ms], size: 10000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 711, time: 1.4800000190734863[ms], size: 10000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 712, time: 1.7829999923706055[ms], size: 10000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 713, time: 1.4620000123977661[ms], size: 10000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 714, time: 1.4730000495910645[ms], size: 10000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 715, time: 1.4580000638961792[ms], size: 10000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 716, time: 1.5640000104904175[ms], size: 10000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 717, time: 1.4509999752044678[ms], size: 10000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 718, time: 1.6319999694824219[ms], size: 10000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 719, time: 1.6210000514984131[ms], size: 10000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 720, time: 1.6100000143051147[ms], size: 10000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 721, time: 1.2810000181198120[ms], size: 1000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 722, time: 1.3730000257492065[ms], size: 1000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 723, time: 1.2789999246597290[ms], size: 1000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 724, time: 1.3350000381469727[ms], size: 1000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 725, time: 1.2329999208450317[ms], size: 1000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 726, time: 1.4689999818801880[ms], size: 1000, pre-sorting: 0.33, options: type : float 
+Shell sort no 727, time: 0.1819999963045120[ms], size: 1000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 728, time: 0.1819999963045120[ms], size: 1000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 729, time: 0.1780000030994415[ms], size: 1000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 730, time: 0.1880000084638596[ms], size: 1000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 731, time: 0.1930000036954880[ms], size: 1000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 732, time: 0.1909999996423721[ms], size: 1000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 733, time: 0.1219999939203262[ms], size: 1000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 734, time: 0.1189999952912331[ms], size: 1000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 735, time: 0.1199999973177910[ms], size: 1000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 736, time: 0.1219999939203262[ms], size: 1000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 737, time: 0.1209999993443489[ms], size: 1000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 738, time: 0.1260000020265579[ms], size: 1000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 739, time: 0.1180000007152557[ms], size: 1000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 740, time: 0.1490000039339066[ms], size: 1000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 741, time: 0.3019999861717224[ms], size: 1000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 742, time: 0.2070000022649765[ms], size: 1000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 743, time: 0.2509999871253967[ms], size: 1000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 744, time: 0.2579999864101410[ms], size: 1000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 745, time: 5.3110003471374512[ms], size: 2000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 746, time: 5.1459999084472656[ms], size: 2000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 747, time: 4.6930003166198730[ms], size: 2000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 748, time: 5.1589999198913574[ms], size: 2000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 749, time: 5.1930003166198730[ms], size: 2000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 750, time: 5.2160000801086426[ms], size: 2000, pre-sorting: 0.33, options: type : float 
+Shell sort no 751, time: 0.4020000100135803[ms], size: 2000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 752, time: 0.4410000145435333[ms], size: 2000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 753, time: 0.5130000114440918[ms], size: 2000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 754, time: 0.4780000150203705[ms], size: 2000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 755, time: 0.4390000104904175[ms], size: 2000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 756, time: 0.5489999651908875[ms], size: 2000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 757, time: 0.2639999985694885[ms], size: 2000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 758, time: 0.2669999897480011[ms], size: 2000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 759, time: 0.2560000121593475[ms], size: 2000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 760, time: 0.2619999945163727[ms], size: 2000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 761, time: 0.2660000026226044[ms], size: 2000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 762, time: 0.2569999992847443[ms], size: 2000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 763, time: 0.2549999952316284[ms], size: 2000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 764, time: 0.2479999959468842[ms], size: 2000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 765, time: 0.2500000000000000[ms], size: 2000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 766, time: 0.3610000014305115[ms], size: 2000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 767, time: 0.2840000092983246[ms], size: 2000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 768, time: 0.2859999835491180[ms], size: 2000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 769, time: 10.8940000534057617[ms], size: 3000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 770, time: 11.9639997482299805[ms], size: 3000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 771, time: 10.9639997482299805[ms], size: 3000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 772, time: 11.2349996566772461[ms], size: 3000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 773, time: 11.0590000152587891[ms], size: 3000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 774, time: 11.3150005340576172[ms], size: 3000, pre-sorting: 0.33, options: type : float 
+Shell sort no 775, time: 0.6800000071525574[ms], size: 3000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 776, time: 1.0949999094009399[ms], size: 3000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 777, time: 0.7389999628067017[ms], size: 3000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 778, time: 0.7559999823570251[ms], size: 3000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 779, time: 0.7030000090599060[ms], size: 3000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 780, time: 0.6999999880790710[ms], size: 3000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 781, time: 0.4030000269412994[ms], size: 3000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 782, time: 0.4129999876022339[ms], size: 3000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 783, time: 0.4060000181198120[ms], size: 3000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 784, time: 0.4120000004768372[ms], size: 3000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 785, time: 0.4079999923706055[ms], size: 3000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 786, time: 0.4050000011920929[ms], size: 3000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 787, time: 0.3919999897480011[ms], size: 3000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 788, time: 0.3889999985694885[ms], size: 3000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 789, time: 0.3939999938011169[ms], size: 3000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 790, time: 0.4379999935626984[ms], size: 3000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 791, time: 0.4740000069141388[ms], size: 3000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 792, time: 0.4480000138282776[ms], size: 3000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 793, time: 19.5509986877441406[ms], size: 4000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 794, time: 20.7380008697509766[ms], size: 4000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 795, time: 19.8449993133544922[ms], size: 4000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 796, time: 19.7810001373291016[ms], size: 4000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 797, time: 20.3050003051757812[ms], size: 4000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 798, time: 20.6040000915527344[ms], size: 4000, pre-sorting: 0.33, options: type : float 
+Shell sort no 799, time: 1.1809999942779541[ms], size: 4000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 800, time: 1.1390000581741333[ms], size: 4000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 801, time: 1.1019999980926514[ms], size: 4000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 802, time: 0.9699999690055847[ms], size: 4000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 803, time: 0.9710000157356262[ms], size: 4000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 804, time: 0.9720000028610229[ms], size: 4000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 805, time: 0.5629999637603760[ms], size: 4000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 806, time: 0.5519999861717224[ms], size: 4000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 807, time: 0.5399999618530273[ms], size: 4000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 808, time: 0.5649999976158142[ms], size: 4000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 809, time: 1.0640000104904175[ms], size: 4000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 810, time: 0.6070000529289246[ms], size: 4000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 811, time: 0.5809999704360962[ms], size: 4000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 812, time: 0.5779999494552612[ms], size: 4000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 813, time: 0.5840000510215759[ms], size: 4000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 814, time: 0.6570000052452087[ms], size: 4000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 815, time: 0.7110000252723694[ms], size: 4000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 816, time: 0.6480000019073486[ms], size: 4000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 817, time: 30.0539989471435547[ms], size: 5000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 818, time: 30.3380012512207031[ms], size: 5000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 819, time: 37.9289970397949219[ms], size: 5000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 820, time: 31.6429996490478516[ms], size: 5000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 821, time: 30.9169998168945312[ms], size: 5000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 822, time: 30.7290000915527344[ms], size: 5000, pre-sorting: 0.33, options: type : float 
+Shell sort no 823, time: 1.2949999570846558[ms], size: 5000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 824, time: 1.3309999704360962[ms], size: 5000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 825, time: 1.3170000314712524[ms], size: 5000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 826, time: 1.2810000181198120[ms], size: 5000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 827, time: 1.2509999275207520[ms], size: 5000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 828, time: 1.3439999818801880[ms], size: 5000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 829, time: 0.7080000042915344[ms], size: 5000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 830, time: 0.7879999876022339[ms], size: 5000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 831, time: 0.7170000076293945[ms], size: 5000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 832, time: 0.8470000028610229[ms], size: 5000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 833, time: 0.7149999737739563[ms], size: 5000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 834, time: 0.8199999928474426[ms], size: 5000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 835, time: 0.7009999752044678[ms], size: 5000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 836, time: 0.6959999799728394[ms], size: 5000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 837, time: 0.7239999771118164[ms], size: 5000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 838, time: 0.7769999504089355[ms], size: 5000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 839, time: 0.7680000066757202[ms], size: 5000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 840, time: 0.7680000066757202[ms], size: 5000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 841, time: 44.0270004272460938[ms], size: 6000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 842, time: 43.7420005798339844[ms], size: 6000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 843, time: 44.9720001220703125[ms], size: 6000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 844, time: 46.3400001525878906[ms], size: 6000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 845, time: 44.8199996948242188[ms], size: 6000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 846, time: 46.2029991149902344[ms], size: 6000, pre-sorting: 0.33, options: type : float 
+Shell sort no 847, time: 1.5960000753402710[ms], size: 6000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 848, time: 1.5329999923706055[ms], size: 6000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 849, time: 1.4900000095367432[ms], size: 6000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 850, time: 1.7079999446868896[ms], size: 6000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 851, time: 1.5429999828338623[ms], size: 6000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 852, time: 1.6700000762939453[ms], size: 6000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 853, time: 1.1310000419616699[ms], size: 6000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 854, time: 0.9629999995231628[ms], size: 6000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 855, time: 0.8650000095367432[ms], size: 6000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 856, time: 0.8900000452995300[ms], size: 6000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 857, time: 0.9059999585151672[ms], size: 6000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 858, time: 0.9909999966621399[ms], size: 6000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 859, time: 0.8410000205039978[ms], size: 6000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 860, time: 0.8299999833106995[ms], size: 6000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 861, time: 0.8399999737739563[ms], size: 6000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 862, time: 0.9309999942779541[ms], size: 6000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 863, time: 0.9289999604225159[ms], size: 6000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 864, time: 1.0089999437332153[ms], size: 6000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 865, time: 59.8889999389648438[ms], size: 7000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 866, time: 60.3439979553222656[ms], size: 7000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 867, time: 60.6459999084472656[ms], size: 7000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 868, time: 61.0489997863769531[ms], size: 7000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 869, time: 61.6549987792968750[ms], size: 7000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 870, time: 63.5939979553222656[ms], size: 7000, pre-sorting: 0.33, options: type : float 
+Shell sort no 871, time: 1.8110001087188721[ms], size: 7000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 872, time: 1.9980000257492065[ms], size: 7000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 873, time: 1.8129999637603760[ms], size: 7000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 874, time: 3.2379999160766602[ms], size: 7000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 875, time: 1.8370000123977661[ms], size: 7000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 876, time: 1.8489999771118164[ms], size: 7000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 877, time: 1.0279999971389771[ms], size: 7000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 878, time: 1.0130000114440918[ms], size: 7000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 879, time: 1.1800000667572021[ms], size: 7000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 880, time: 1.0319999456405640[ms], size: 7000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 881, time: 1.0529999732971191[ms], size: 7000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 882, time: 1.0349999666213989[ms], size: 7000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 883, time: 1.1039999723434448[ms], size: 7000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 884, time: 0.9720000028610229[ms], size: 7000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 885, time: 0.9869999289512634[ms], size: 7000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 886, time: 1.2109999656677246[ms], size: 7000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 887, time: 1.2509999275207520[ms], size: 7000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 888, time: 1.0979999303817749[ms], size: 7000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 889, time: 77.9609985351562500[ms], size: 8000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 890, time: 77.6859970092773438[ms], size: 8000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 891, time: 80.2630004882812500[ms], size: 8000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 892, time: 79.3700027465820312[ms], size: 8000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 893, time: 78.8109970092773438[ms], size: 8000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 894, time: 79.7820053100585938[ms], size: 8000, pre-sorting: 0.33, options: type : float 
+Shell sort no 895, time: 2.1830000877380371[ms], size: 8000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 896, time: 2.2969999313354492[ms], size: 8000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 897, time: 2.2279999256134033[ms], size: 8000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 898, time: 2.2350001335144043[ms], size: 8000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 899, time: 2.2079999446868896[ms], size: 8000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 900, time: 2.2479999065399170[ms], size: 8000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 901, time: 1.1849999427795410[ms], size: 8000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 902, time: 1.2440000772476196[ms], size: 8000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 903, time: 1.1629999876022339[ms], size: 8000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 904, time: 1.1719999313354492[ms], size: 8000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 905, time: 1.2500000000000000[ms], size: 8000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 906, time: 1.1589999198913574[ms], size: 8000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 907, time: 1.1419999599456787[ms], size: 8000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 908, time: 1.1180000305175781[ms], size: 8000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 909, time: 1.1510000228881836[ms], size: 8000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 910, time: 1.2799999713897705[ms], size: 8000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 911, time: 1.2630000114440918[ms], size: 8000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 912, time: 1.3610000610351562[ms], size: 8000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 913, time: 100.3450012207031250[ms], size: 9000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 914, time: 98.9229965209960938[ms], size: 9000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 915, time: 101.5930023193359375[ms], size: 9000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 916, time: 101.3610000610351562[ms], size: 9000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 917, time: 101.6480026245117188[ms], size: 9000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 918, time: 99.2060012817382812[ms], size: 9000, pre-sorting: 0.33, options: type : float 
+Shell sort no 919, time: 2.8699998855590820[ms], size: 9000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 920, time: 2.4949998855590820[ms], size: 9000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 921, time: 2.5150001049041748[ms], size: 9000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 922, time: 2.5740001201629639[ms], size: 9000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 923, time: 2.5030000209808350[ms], size: 9000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 924, time: 2.6199998855590820[ms], size: 9000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 925, time: 1.4629999399185181[ms], size: 9000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 926, time: 1.3839999437332153[ms], size: 9000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 927, time: 1.3170000314712524[ms], size: 9000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 928, time: 1.3279999494552612[ms], size: 9000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 929, time: 1.3450000286102295[ms], size: 9000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 930, time: 1.3090000152587891[ms], size: 9000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 931, time: 1.4509999752044678[ms], size: 9000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 932, time: 1.3889999389648438[ms], size: 9000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 933, time: 1.3350000381469727[ms], size: 9000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 934, time: 1.4559999704360962[ms], size: 9000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 935, time: 1.5149999856948853[ms], size: 9000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 936, time: 1.4370000362396240[ms], size: 9000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 937, time: 121.8349990844726562[ms], size: 10000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 938, time: 123.2080001831054688[ms], size: 10000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 939, time: 120.3180007934570312[ms], size: 10000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 940, time: 121.8840026855468750[ms], size: 10000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 941, time: 121.4739990234375000[ms], size: 10000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 942, time: 125.2000045776367188[ms], size: 10000, pre-sorting: 0.33, options: type : float 
+Shell sort no 943, time: 2.8800001144409180[ms], size: 10000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 944, time: 3.1260001659393311[ms], size: 10000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 945, time: 2.8880000114440918[ms], size: 10000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 946, time: 2.8800001144409180[ms], size: 10000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 947, time: 2.9240000247955322[ms], size: 10000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 948, time: 3.1540000438690186[ms], size: 10000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 949, time: 1.5600000619888306[ms], size: 10000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 950, time: 2.5420000553131104[ms], size: 10000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 951, time: 1.4759999513626099[ms], size: 10000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 952, time: 1.5099999904632568[ms], size: 10000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 953, time: 1.4980000257492065[ms], size: 10000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 954, time: 2.3600001335144043[ms], size: 10000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 955, time: 1.7280000448226929[ms], size: 10000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 956, time: 1.4400000572204590[ms], size: 10000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 957, time: 1.5160000324249268[ms], size: 10000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 958, time: 1.7719999551773071[ms], size: 10000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 959, time: 1.6439999341964722[ms], size: 10000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 960, time: 1.7599999904632568[ms], size: 10000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 961, time: 1.2979999780654907[ms], size: 1000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 962, time: 1.3099999427795410[ms], size: 1000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 963, time: 1.2239999771118164[ms], size: 1000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 964, time: 1.2960000038146973[ms], size: 1000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 965, time: 1.2919999361038208[ms], size: 1000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 966, time: 1.3880000114440918[ms], size: 1000, pre-sorting: 0.33, options: type : float 
+Shell sort no 967, time: 0.2800000011920929[ms], size: 1000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 968, time: 0.1840000003576279[ms], size: 1000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 969, time: 0.1780000030994415[ms], size: 1000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 970, time: 0.1920000016689301[ms], size: 1000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 971, time: 0.1979999989271164[ms], size: 1000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 972, time: 0.1920000016689301[ms], size: 1000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 973, time: 0.1199999973177910[ms], size: 1000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 974, time: 0.1219999939203262[ms], size: 1000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 975, time: 0.1239999979734421[ms], size: 1000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 976, time: 0.1199999973177910[ms], size: 1000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 977, time: 0.1180000007152557[ms], size: 1000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 978, time: 0.1199999973177910[ms], size: 1000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 979, time: 0.1199999973177910[ms], size: 1000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 980, time: 0.1239999979734421[ms], size: 1000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 981, time: 0.1160000041127205[ms], size: 1000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 982, time: 0.1340000033378601[ms], size: 1000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 983, time: 0.1340000033378601[ms], size: 1000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 984, time: 0.1340000033378601[ms], size: 1000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 985, time: 4.9400000572204590[ms], size: 2000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 986, time: 5.0180001258850098[ms], size: 2000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 987, time: 4.8379998207092285[ms], size: 2000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 988, time: 5.8059997558593750[ms], size: 2000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 989, time: 5.7160000801086426[ms], size: 2000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 990, time: 4.9760003089904785[ms], size: 2000, pre-sorting: 0.33, options: type : float 
+Shell sort no 991, time: 0.5519999861717224[ms], size: 2000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 992, time: 0.4600000083446503[ms], size: 2000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 993, time: 0.4079999923706055[ms], size: 2000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 994, time: 0.4239999949932098[ms], size: 2000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 995, time: 0.4440000057220459[ms], size: 2000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 996, time: 0.4339999854564667[ms], size: 2000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 997, time: 0.3659999966621399[ms], size: 2000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 998, time: 0.3519999980926514[ms], size: 2000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 999, time: 0.3100000023841858[ms], size: 2000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 1000, time: 0.2720000147819519[ms], size: 2000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 1001, time: 0.2899999916553497[ms], size: 2000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 1002, time: 0.2520000040531158[ms], size: 2000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 1003, time: 0.2560000121593475[ms], size: 2000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 1004, time: 0.2479999959468842[ms], size: 2000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 1005, time: 0.2520000040531158[ms], size: 2000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 1006, time: 0.2840000092983246[ms], size: 2000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 1007, time: 0.2899999916553497[ms], size: 2000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 1008, time: 0.3000000119209290[ms], size: 2000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 1009, time: 11.8079996109008789[ms], size: 3000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 1010, time: 11.3380002975463867[ms], size: 3000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 1011, time: 10.7600002288818359[ms], size: 3000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 1012, time: 10.8920001983642578[ms], size: 3000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 1013, time: 11.6079998016357422[ms], size: 3000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 1014, time: 11.0999994277954102[ms], size: 3000, pre-sorting: 0.33, options: type : float 
+Shell sort no 1015, time: 0.6880000233650208[ms], size: 3000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 1016, time: 0.7960000038146973[ms], size: 3000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 1017, time: 0.8120000362396240[ms], size: 3000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 1018, time: 0.7099999785423279[ms], size: 3000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 1019, time: 0.7019999623298645[ms], size: 3000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 1020, time: 0.7099999785423279[ms], size: 3000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 1021, time: 0.4099999964237213[ms], size: 3000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 1022, time: 0.5279999971389771[ms], size: 3000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 1023, time: 0.5239999890327454[ms], size: 3000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 1024, time: 0.4079999923706055[ms], size: 3000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 1025, time: 0.4099999964237213[ms], size: 3000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 1026, time: 0.4020000100135803[ms], size: 3000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 1027, time: 0.3919999897480011[ms], size: 3000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 1028, time: 0.3879999816417694[ms], size: 3000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 1029, time: 0.3840000033378601[ms], size: 3000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 1030, time: 0.4420000016689301[ms], size: 3000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 1031, time: 0.4440000057220459[ms], size: 3000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 1032, time: 0.4399999976158142[ms], size: 3000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 1033, time: 20.6280002593994141[ms], size: 4000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 1034, time: 19.4820003509521484[ms], size: 4000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 1035, time: 19.6659984588623047[ms], size: 4000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 1036, time: 20.1779994964599609[ms], size: 4000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 1037, time: 20.1359996795654297[ms], size: 4000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 1038, time: 19.9640007019042969[ms], size: 4000, pre-sorting: 0.33, options: type : float 
+Shell sort no 1039, time: 0.9639999866485596[ms], size: 4000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 1040, time: 0.9360000491142273[ms], size: 4000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 1041, time: 0.9720000028610229[ms], size: 4000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 1042, time: 1.0399999618530273[ms], size: 4000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 1043, time: 1.0479999780654907[ms], size: 4000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 1044, time: 1.0440000295639038[ms], size: 4000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 1045, time: 0.5600000023841858[ms], size: 4000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 1046, time: 0.5460000038146973[ms], size: 4000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 1047, time: 0.5419999957084656[ms], size: 4000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 1048, time: 0.5559999942779541[ms], size: 4000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 1049, time: 0.6800000071525574[ms], size: 4000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 1050, time: 0.5479999780654907[ms], size: 4000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 1051, time: 0.5279999971389771[ms], size: 4000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 1052, time: 0.5440000295639038[ms], size: 4000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 1053, time: 0.5320000052452087[ms], size: 4000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 1054, time: 0.6759999990463257[ms], size: 4000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 1055, time: 0.6000000238418579[ms], size: 4000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 1056, time: 0.6660000085830688[ms], size: 4000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 1057, time: 30.7880001068115234[ms], size: 5000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 1058, time: 31.3020019531250000[ms], size: 5000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 1059, time: 30.8880004882812500[ms], size: 5000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 1060, time: 30.3360004425048828[ms], size: 5000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 1061, time: 31.4080009460449219[ms], size: 5000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 1062, time: 31.0520000457763672[ms], size: 5000, pre-sorting: 0.33, options: type : float 
+Shell sort no 1063, time: 1.4019999504089355[ms], size: 5000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 1064, time: 1.2680000066757202[ms], size: 5000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 1065, time: 1.2440000772476196[ms], size: 5000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 1066, time: 1.4060000181198120[ms], size: 5000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 1067, time: 1.2519999742507935[ms], size: 5000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 1068, time: 1.6339999437332153[ms], size: 5000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 1069, time: 0.8440000414848328[ms], size: 5000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 1070, time: 0.6859999895095825[ms], size: 5000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 1071, time: 0.7060000300407410[ms], size: 5000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 1072, time: 0.7340000271797180[ms], size: 5000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 1073, time: 0.7680000066757202[ms], size: 5000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 1074, time: 0.7900000214576721[ms], size: 5000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 1075, time: 0.7759999632835388[ms], size: 5000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 1076, time: 0.6880000233650208[ms], size: 5000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 1077, time: 0.6859999895095825[ms], size: 5000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 1078, time: 0.7999999523162842[ms], size: 5000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 1079, time: 0.7820000052452087[ms], size: 5000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 1080, time: 0.8640000224113464[ms], size: 5000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 1081, time: 42.4919967651367188[ms], size: 6000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 1082, time: 45.0079994201660156[ms], size: 6000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 1083, time: 44.6159973144531250[ms], size: 6000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 1084, time: 44.0099983215332031[ms], size: 6000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 1085, time: 44.5400009155273438[ms], size: 6000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 1086, time: 45.8819999694824219[ms], size: 6000, pre-sorting: 0.33, options: type : float 
+Shell sort no 1087, time: 1.5440000295639038[ms], size: 6000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 1088, time: 1.7599999904632568[ms], size: 6000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 1089, time: 1.6180000305175781[ms], size: 6000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 1090, time: 1.7039999961853027[ms], size: 6000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 1091, time: 1.5320000648498535[ms], size: 6000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 1092, time: 1.5460000038146973[ms], size: 6000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 1093, time: 0.8679999709129333[ms], size: 6000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 1094, time: 1.0199999809265137[ms], size: 6000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 1095, time: 0.8459999561309814[ms], size: 6000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 1096, time: 0.8659999966621399[ms], size: 6000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 1097, time: 0.8799999952316284[ms], size: 6000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 1098, time: 0.8599999547004700[ms], size: 6000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 1099, time: 1.1719999313354492[ms], size: 6000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 1100, time: 0.8360000252723694[ms], size: 6000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 1101, time: 0.8299999833106995[ms], size: 6000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 1102, time: 0.9519999623298645[ms], size: 6000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 1103, time: 0.9360000491142273[ms], size: 6000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 1104, time: 0.9300000071525574[ms], size: 6000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 1105, time: 60.8940010070800781[ms], size: 7000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 1106, time: 60.3840026855468750[ms], size: 7000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 1107, time: 60.3299980163574219[ms], size: 7000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 1108, time: 61.7159996032714844[ms], size: 7000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 1109, time: 62.7000045776367188[ms], size: 7000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 1110, time: 62.6680030822753906[ms], size: 7000, pre-sorting: 0.33, options: type : float 
+Shell sort no 1111, time: 2.1119999885559082[ms], size: 7000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 1112, time: 1.8999999761581421[ms], size: 7000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 1113, time: 2.0720000267028809[ms], size: 7000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 1114, time: 1.8320000171661377[ms], size: 7000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 1115, time: 1.8799999952316284[ms], size: 7000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 1116, time: 2.0959999561309814[ms], size: 7000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 1117, time: 1.0199999809265137[ms], size: 7000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 1118, time: 1.1139999628067017[ms], size: 7000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 1119, time: 1.1419999599456787[ms], size: 7000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 1120, time: 1.1399999856948853[ms], size: 7000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 1121, time: 1.0519999265670776[ms], size: 7000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 1122, time: 1.1439999341964722[ms], size: 7000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 1123, time: 1.1640000343322754[ms], size: 7000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 1124, time: 1.0319999456405640[ms], size: 7000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 1125, time: 1.0319999456405640[ms], size: 7000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 1126, time: 1.2419999837875366[ms], size: 7000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 1127, time: 1.1719999313354492[ms], size: 7000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 1128, time: 1.1940000057220459[ms], size: 7000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 1129, time: 79.2480010986328125[ms], size: 8000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 1130, time: 77.7519989013671875[ms], size: 8000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 1131, time: 79.8239974975585938[ms], size: 8000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 1132, time: 84.0979995727539062[ms], size: 8000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 1133, time: 79.3360061645507812[ms], size: 8000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 1134, time: 80.5000000000000000[ms], size: 8000, pre-sorting: 0.33, options: type : float 
+Shell sort no 1135, time: 2.5239999294281006[ms], size: 8000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 1136, time: 2.3819999694824219[ms], size: 8000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 1137, time: 2.2980000972747803[ms], size: 8000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 1138, time: 2.1559998989105225[ms], size: 8000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 1139, time: 2.3059999942779541[ms], size: 8000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 1140, time: 2.3660001754760742[ms], size: 8000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 1141, time: 1.2720000743865967[ms], size: 8000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 1142, time: 1.1579999923706055[ms], size: 8000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 1143, time: 1.1680001020431519[ms], size: 8000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 1144, time: 1.2660000324249268[ms], size: 8000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 1145, time: 1.3480000495910645[ms], size: 8000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 1146, time: 1.2419999837875366[ms], size: 8000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 1147, time: 1.1480000019073486[ms], size: 8000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 1148, time: 1.3320000171661377[ms], size: 8000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 1149, time: 1.5099999904632568[ms], size: 8000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 1150, time: 1.3360000848770142[ms], size: 8000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 1151, time: 1.2539999485015869[ms], size: 8000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 1152, time: 1.7160000801086426[ms], size: 8000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 1153, time: 101.2339935302734375[ms], size: 9000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 1154, time: 101.1439971923828125[ms], size: 9000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 1155, time: 100.2739944458007812[ms], size: 9000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 1156, time: 101.4399948120117188[ms], size: 9000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 1157, time: 101.4960021972656250[ms], size: 9000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 1158, time: 102.9239959716796875[ms], size: 9000, pre-sorting: 0.33, options: type : float 
+Shell sort no 1159, time: 2.4900000095367432[ms], size: 9000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 1160, time: 3.0260000228881836[ms], size: 9000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 1161, time: 2.6199998855590820[ms], size: 9000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 1162, time: 2.5039999485015869[ms], size: 9000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 1163, time: 2.8399999141693115[ms], size: 9000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 1164, time: 2.5520000457763672[ms], size: 9000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 1165, time: 1.4440000057220459[ms], size: 9000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 1166, time: 1.3980000019073486[ms], size: 9000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 1167, time: 1.3899999856948853[ms], size: 9000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 1168, time: 1.3439999818801880[ms], size: 9000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 1169, time: 1.3240000009536743[ms], size: 9000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 1170, time: 1.3999999761581421[ms], size: 9000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 1171, time: 1.2999999523162842[ms], size: 9000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 1172, time: 1.3839999437332153[ms], size: 9000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 1173, time: 1.2840000391006470[ms], size: 9000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 1174, time: 1.4440000057220459[ms], size: 9000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 1175, time: 1.4420000314712524[ms], size: 9000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 1176, time: 1.5500000715255737[ms], size: 9000, pre-sorting: 0.33, options: pivot : random 
+Insertion sort no 1177, time: 123.5380020141601562[ms], size: 10000, pre-sorting: 0.00, options: type : uint32_t 
+Insertion sort no 1178, time: 123.3359985351562500[ms], size: 10000, pre-sorting: 0.50, options: type : uint32_t 
+Insertion sort no 1179, time: 122.7679977416992188[ms], size: 10000, pre-sorting: 0.33, options: type : uint32_t 
+Insertion sort no 1180, time: 124.7960052490234375[ms], size: 10000, pre-sorting: 0.00, options: type : float 
+Insertion sort no 1181, time: 128.6020050048828125[ms], size: 10000, pre-sorting: 0.50, options: type : float 
+Insertion sort no 1182, time: 125.6919937133789062[ms], size: 10000, pre-sorting: 0.33, options: type : float 
+Shell sort no 1183, time: 3.0700001716613770[ms], size: 10000, pre-sorting: 0.00, options: gaps: pow2 
+Shell sort no 1184, time: 3.1039998531341553[ms], size: 10000, pre-sorting: 0.50, options: gaps: pow2 
+Shell sort no 1185, time: 3.0859999656677246[ms], size: 10000, pre-sorting: 0.33, options: gaps: pow2 
+Shell sort no 1186, time: 2.9319999217987061[ms], size: 10000, pre-sorting: 0.00, options: gaps: curie 
+Shell sort no 1187, time: 3.0420000553131104[ms], size: 10000, pre-sorting: 0.50, options: gaps: curie 
+Shell sort no 1188, time: 2.8880000114440918[ms], size: 10000, pre-sorting: 0.33, options: gaps: curie 
+Quick sort no 1189, time: 1.4959999322891235[ms], size: 10000, pre-sorting: 0.00, options: pivot : left 
+Quick sort no 1190, time: 1.4839999675750732[ms], size: 10000, pre-sorting: 0.50, options: pivot : left 
+Quick sort no 1191, time: 1.5740000009536743[ms], size: 10000, pre-sorting: 0.33, options: pivot : left 
+Quick sort no 1192, time: 1.4939999580383301[ms], size: 10000, pre-sorting: 0.00, options: pivot : right 
+Quick sort no 1193, time: 1.5200001001358032[ms], size: 10000, pre-sorting: 0.50, options: pivot : right 
+Quick sort no 1194, time: 1.5559999942779541[ms], size: 10000, pre-sorting: 0.33, options: pivot : right 
+Quick sort no 1195, time: 1.4700000286102295[ms], size: 10000, pre-sorting: 0.00, options: pivot : mid 
+Quick sort no 1196, time: 1.4479999542236328[ms], size: 10000, pre-sorting: 0.50, options: pivot : mid 
+Quick sort no 1197, time: 1.4499999284744263[ms], size: 10000, pre-sorting: 0.33, options: pivot : mid 
+Quick sort no 1198, time: 1.6200000047683716[ms], size: 10000, pre-sorting: 0.00, options: pivot : random 
+Quick sort no 1199, time: 1.6019999980926514[ms], size: 10000, pre-sorting: 0.50, options: pivot : random 
+Quick sort no 1200, time: 1.8159999847412109[ms], size: 10000, pre-sorting: 0.33, options: pivot : random 
