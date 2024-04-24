@@ -21,7 +21,7 @@ static const char *types[] = {
 };
 
 static const char *none[] = {
-  "",
+  " ",
   "",
   "",
   ""

@@ -10,16 +10,16 @@
 
 
 const uint32_t test_sizes[TEST_SIZE_COUNT] = {
-  1000,
-  2000,
-  3000,
-  4000,
-  5000,
-  6000,
-  7000,
-  8000,
-  9000,
-  10000
+  10000,
+  20000,
+  30000,
+  40000,
+  50000,
+  60000,
+  70000,
+  80000,
+  90000,
+  100000
 };
 
 sort_context_t *ctx;
@@ -52,8 +52,7 @@ handle_presort_input()
 {
   uint32_t size;
 
-  if(scanf("%u", &size) != 1)
-    return -1;
+  scanf("%u", &size);
 
   if(size > ctx->size)
     return -1;
@@ -147,7 +146,7 @@ main_loop()
         break;
       case '8':
         res = handle_presort_input();
-        if(res == 0)
+        if(res != 0)
           printf("Wrong input\n");
         else
           presort(ctx);
@@ -164,16 +163,16 @@ main_loop()
   void
 do_test()
 {
-  for(int i=0; i<TEST_COUNT; i++){
-    for(int j=0; j<TEST_SIZE_COUNT; j++){
-      for(int k=0; k<4; k++){
-        for(int o=0; o<4; o++){
-          for(int l=1; l<4;l++){
+  for(int k=0; k<4; k++){
+    for(int o=0; o<4; o++){
+      for(int l=1; l<4;l++){
+        for(int j=0; j<TEST_SIZE_COUNT; j++){
+            for(int i=0; i<TEST_COUNT; i++){
             gen_rand_array(ctx, test_sizes[j]);
             ctx->sort_index = k;
             if(l != 1){
-              ctx->sort_size = test_sizes[j]/l;
-              ctx->presort_proc = 1.0f/(float)l;
+              ctx->sort_size = test_sizes[j]* (1.0f/l);
+              ctx->presort_proc = 1.0f/l;
               presort(ctx);
             }else{
               ctx->presort_proc = 0.0f;
@@ -189,12 +188,15 @@ do_test()
 }
 
   int
-main()
+main(int argc, char *argv[])
 {
   init_sort_ctx(&ctx);
   setup_sort_list(&ctx);
 
-  do_test();
+  if(argc != 1 && strcmp(argv[1], "-t") == 0)
+    do_test();
+  else
+    main_loop();
 
   deinit_sort_ctx(&ctx);
   return 0;

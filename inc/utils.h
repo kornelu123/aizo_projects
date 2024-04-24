@@ -115,6 +115,8 @@ gen_rand_array(sort_context_t *ctx, uint32_t size)
   ctx->sort_size = size;
   ctx->size = size;
   ctx->arr  = realloc(ctx->arr, ctx->size*sizeof(uint32_t));
+  ctx->sort_arr->u_arr  = realloc(ctx->sort_arr->u_arr, ctx->size*sizeof(uint32_t));
+
   if(ctx->arr == NULL)
     return -1;
 
@@ -131,8 +133,8 @@ init_sort_ctx(sort_context_t **ctx)
   *ctx                  = (sort_context_t *) calloc (1, sizeof(sort_context_t));
   if(*ctx == NULL)
     perror("calloc");
-
   (*ctx)->sort_arr              = calloc(1, sizeof(array));
+
   (*ctx)->arr                   = NULL;
   (*ctx)->sort_arr->u_arr       = NULL;
   (*ctx)->ms_time               = NULL;

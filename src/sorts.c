@@ -25,11 +25,10 @@ bin_search_u32(sort_context_t *ctx, int l, int r, uint32_t s)
   while(l < r){
     int mid = (l + r)/2;
 
-    if(ctx->sort_arr->u_arr[mid] <= s){
+    if(ctx->sort_arr->u_arr[mid] <= s)
       l = mid + 1;
-    } else {
+    else
       r = mid;
-    }
   }
   return l;
 }
@@ -55,22 +54,25 @@ execute_sort(sort_context_t *ctx)
   if(strcmp("",options[ctx->sort_index][ctx->sort_opt]) == 0)
     return -1;
 
-  const uint32_t arr_size = sizeof(uint32_t)*ctx->size;
+  const uint32_t arr_size = ctx->size*sizeof(uint32_t);
   ctx->sort_arr->u_arr = realloc(ctx->sort_arr->u_arr, arr_size);
   memcpy(ctx->sort_arr->u_arr, ctx->arr, arr_size);
 
   clock_t start = clock();
   ctx->sorts[ctx->sort_index](ctx);
   clock_t end = clock();
-
   add_time(start, end, ctx);
+
   return 0;
 }
 
   void
 presort(sort_context_t *ctx)
 {
+  memcpy(ctx->sort_arr->u_arr, ctx->arr, ctx->size);
   ctx->sorts[QUICK_SORT](ctx);
+  memcpy(ctx->arr, ctx->sort_arr->u_arr, ctx->size);
+  print_array(ctx);
   ctx->sort_size = ctx->size;
 }
 

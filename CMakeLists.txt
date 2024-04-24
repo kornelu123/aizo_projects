@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.24)
 
-project(sort)
+project(sort_test)
 
 set(CMAKE_CXX_STANDARD_17)
 
